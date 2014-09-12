@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"caret_extra_width": 1,
+	"caret_style": "smooth",
+	"enable_telemetry": "disabled",
+	"font_size": 8,
+	"highlight_line": false,
+	"highlight_modified_tabs": true,
+	"margin": 0,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": false,
+	"word_wrap": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
